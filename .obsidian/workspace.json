@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Index"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,7 +171,8 @@
   },
   "active": "daa49b006f803b80",
   "lastOpenFiles": [
-    "source/CODE_OF_CONDUCT.md",
-    "README.md"
+    "README.md",
+    "Index.md",
+    "source/CODE_OF_CONDUCT.md"
   ]
 }
